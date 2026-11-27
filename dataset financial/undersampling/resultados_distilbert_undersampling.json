@@ -1,0 +1,16 @@
+{
+  "modelo": "DistilBERT",
+  "cenario": "undersampling",
+  "n_treino": 1305,
+  "melhor_epoca": 3,
+  "texto": "text",
+  "accuracy": 0.7556701030927835,
+  "precision_w": 0.7724189699855007,
+  "recall_w": 0.7556701030927835,
+  "f1_w": 0.7578954476607495,
+  "f1_macro": 0.7402620002834729,
+  "epochs": 3,
+  "lr": 2e-05,
+  "batch_size": 32,
+  "max_len": 64
+}

@@ -1,0 +1,14 @@
+{
+  "modelo": "DistilBERT",
+  "cenario": "imbalanced",
+  "texto": "text",
+  "accuracy": 0.8340206185567011,
+  "precision_w": 0.8366549824103222,
+  "recall_w": 0.8340206185567011,
+  "f1_w": 0.8349818369118079,
+  "f1_macro": 0.8126926439003482,
+  "epochs": 3,
+  "lr": 2e-05,
+  "batch_size": 32,
+  "max_len": 64
+}
